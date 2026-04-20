@@ -1,0 +1,16 @@
+# Environment
+.env
+
+# Build artifacts
+target/
+out/
+
+# IDE and OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
